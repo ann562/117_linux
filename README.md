@@ -38,4 +38,18 @@
 | **Steak**             | A cut of high-quality beef that is grilled, pan-seared, or broiled, typically served with sides like mashed potatoes, vegetables, or salad. |
 | **Dim Sum**           | A style of Chinese cuisine featuring small bite-sized portions of food, typically served in small steamer baskets or on small plates. Popular items include dumplings, buns, and spring rolls. |
 | **Gelato**            | An Italian frozen dessert similar to ice cream but made with more milk than cream, and available in a variety of flavors like chocolate, vanilla, pistachio, and fruit. |
+# Popular Clothing Styles and Their Descriptions
+
+| Style                 | Description                                                                 |
+|-----------------------|-----------------------------------------------------------------------------|
+| **Casual**            | Relaxed and comfortable clothing, typically including jeans, t-shirts, and sneakers. Ideal for everyday wear. |
+| **Formal**            | Elegant and sophisticated attire, often worn for formal events. Includes suits, ties, dress shirts for men, and evening gowns or cocktail dresses for women. |
+| **Business Casual**    | A blend of professional and casual wear, often including blazers, dress shirts, slacks, or skirts. It’s appropriate for workplaces that allow a less formal dress code. |
+| **Streetwear**        | A trendy style that originated from urban culture, incorporating elements like oversized t-shirts, hoodies, sneakers, and caps, often featuring bold logos or graphics. |
+| **Bohemian (Boho)**   | A free-spirited, relaxed style inspired by hippie and bohemian culture. Characterized by flowy dresses, earthy tones, fringe, and layered jewelry. |
+| **Preppy**            | A polished and put-together look often associated with American Ivy League fashion. Features items like polo shirts, blazers, khakis, and loafers. |
+| **Athleisure**        | A fusion of athletic wear and casual fashion, allowing for versatile, comfortable outfits. Common items include leggings, joggers, and sneakers. |
+| **Vintage**           | A style inspired by fashion trends from past decades, like the 1920s flapper dresses, 1950s pin-up skirts, or 1970s bell-bottoms. Often sourced from thrift stores or secondhand shops. |
+| **Minimalist**        | A clean and simple style focusing on neutral tones and basic silhouettes. Often characterized by items like monochrome outfits, tailored pants, and structured coats. |
+| **Punk**              | A rebellious and edgy style associated with punk music. Features include leather jackets, ripped jeans, band tees, and bold accessories like studs and spikes. |
 
