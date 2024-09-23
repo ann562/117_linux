@@ -1,13 +1,21 @@
 
-#Command Line Survival Guide for GIT and Linux
+# Command Line Survival Guide for GIT and Linux
 
-##Who invented GIT and Linux?
+1. [Top 10 GIT Commands](git.md)
+2. [Top 10 Linux Commands](linux.md)
 
-##Why us Linux?
 
-##Top 10 Linux Commands
 
-1.mdkir- make directory
+
+
+
+
+
+
+
+
+
+
 
 # Top 10 Git Commands
 
