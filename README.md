@@ -16,7 +16,6 @@
 
 
 
-
 # Top 10 Git Commands
 
 | Command               | Description                                                      | Example Usage                    |
